@@ -1,0 +1,41 @@
+.black-bg {
+    background-color: black !important;
+    color: white;
+    }
+
+   .white-bg {
+    background-color: white !important;
+    color: black;
+    }
+
+    .navbar{
+        background-color: rgba(211, 211, 211, 0.271);
+    }
+    .footer{
+        background-color: rgba(211, 211, 211, 0.271);
+    }
+    #main{
+        border: 5px solid var(--primary-color);
+    }
+    .table{
+        margin-left: 7%;
+    }
+    #formPart{
+        margin-left: 5%;
+     }
+     h2{
+        padding-left: 6.6%;
+     }
+     .contactMe{
+        padding-left: 6.6%;
+     }
+     #icon{
+        width: 30px;
+        cursor: pointer;
+     }
+     :root{
+        /* --primary-color:#edf2fc;
+        --secondary-color:#212121; */
+        --primary-color:#000106;
+        --secondary-color:#fff;
+     } 
